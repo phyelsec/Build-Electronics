@@ -1,2 +1,10 @@
 # Learn-Electronics
-A database where you could learn to build electronics from best resources on internet.
+
+## Fields
+- EDA Development
+- Integrated Circuits (Microelectronics)
+- Embedded Systems
+- Recycling
+- Fablab
+
+---
