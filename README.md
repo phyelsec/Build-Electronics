@@ -2,7 +2,7 @@
 My objective with this repository is to share with you what I know about electronics. Currently I'm a student, so I'm still learning, but I believe I can make a contribution for those who are just starting out.
 
 ## Electronics?
-First at all, I want you to have a map in your mind, and as if it were a puzzle, we could organize electronics in following areas:
+First at all, I want you to put a map in your mind, and as if it were a puzzle, we could organize electronics in following areas:
 
 | Fields             | About                                                                                         |
 |:------------------:|:----------------------------------------------------------------------------------------------|
