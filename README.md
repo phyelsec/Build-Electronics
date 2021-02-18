@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/phyelsec/Build-Electronics?logo=Github&style=plastic)
+
 # Learn-Electronics
 My objective with this repository is to share with you what I know about electronics. Currently I'm a student, so I'm still learning, but I believe I can make a contribution for those who are just starting out.
 
